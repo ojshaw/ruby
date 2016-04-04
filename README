@@ -15,7 +15,6 @@ Each folder is a project or task, each one has its own README, but I will try to
 update this one as well inorder to make it easier for people to see, if they
 would like, without opening all the folders.
 
-
 =======================================
 WHY'S GUIDE
 =======================================
@@ -27,4 +26,3 @@ DATA STRUCTURES
 =======================================
 
 This is practice writing basics data structures in Ruby
-
